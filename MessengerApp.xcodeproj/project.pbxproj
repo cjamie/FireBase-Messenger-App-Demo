@@ -13,6 +13,7 @@
 		844E261C1FF5D76A001449E4 /* MessengerApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 844E261A1FF5D76A001449E4 /* MessengerApp.xcdatamodeld */; };
 		844E261E1FF5D76A001449E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 844E261D1FF5D76A001449E4 /* Assets.xcassets */; };
 		844E26211FF5D76A001449E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 844E261F1FF5D76A001449E4 /* LaunchScreen.storyboard */; };
+		844E26291FF60F1B001449E4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 844E26281FF60F1B001449E4 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		844E261D1FF5D76A001449E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		844E26201FF5D76A001449E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		844E26221FF5D76A001449E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		844E26281FF60F1B001449E4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				844E261D1FF5D76A001449E4 /* Assets.xcassets */,
 				844E261F1FF5D76A001449E4 /* LaunchScreen.storyboard */,
 				844E26221FF5D76A001449E4 /* Info.plist */,
+				844E26281FF60F1B001449E4 /* GoogleService-Info.plist */,
 				844E261A1FF5D76A001449E4 /* MessengerApp.xcdatamodeld */,
 			);
 			path = MessengerApp;
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				844E26211FF5D76A001449E4 /* LaunchScreen.storyboard in Resources */,
+				844E26291FF60F1B001449E4 /* GoogleService-Info.plist in Resources */,
 				844E261E1FF5D76A001449E4 /* Assets.xcassets in Resources */,
 				844E26191FF5D76A001449E4 /* Main.storyboard in Resources */,
 			);
